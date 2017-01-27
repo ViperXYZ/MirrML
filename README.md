@@ -1,2 +1,6 @@
-# UofTHacksIV_MirrorMirror
-Created a Machine Learning based web application that given a set of picture identifies the users style as business, casual or evening.
+###### UofT_Hacks_4
+# Mirror Mirror 
+
+## An artificial-intelligence-based fashion web app 
+
+Mirror Mirror is your new personal stylist. Simply upload pictures of your favourite clothes, and our web app, powered by the Clarifai visual recognition API, will analyze the photos for your style. 
